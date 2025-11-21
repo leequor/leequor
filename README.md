@@ -1,4 +1,4 @@
-## Hi there, I'm ALexander R. Campita 👋
+## Hi there, I'm Alexander R. Campita 👋
 
 Hello and welcome to my GitHub profile! I am a committed BS Computer Science student with a strong enthusiasm for technology, problem-solving, and lifelong learning. I love diving into programming, databases, and tools that enable me to build effective and impactful solutions.
 

@@ -1,4 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on improvements about my knowledge in coding
-- 🌱 I’m currently a freshman in Computer Science
+Hello and welcome to my GitHub profile! I am a committed BS Computer Science student with a strong enthusiasm for technology, problem-solving, and lifelong learning. I love diving into programming, databases, and tools that enable me to build effective and impactful solutions.
+
+🎓 Education
+
+BS Computer Science
+New Era University
+2024–Present

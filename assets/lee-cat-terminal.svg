@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Lee. The cat has ideas. I take the credit.</title>
+  <desc id="desc">An apricot pixel cat supplies the ideas while Lee prompts AI and takes the credit. The terminal says: ship idea, waiting for cat approval.</desc>
+  <defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#DCD0F3"/></pattern></defs>
+  <rect x="2" y="2" width="1196" height="436" rx="22" fill="#EDE6FF" stroke="#241C32" stroke-width="4"/>
+  <path d="M24 4h1152a20 20 0 0 1 20 20v34H4V24A20 20 0 0 1 24 4z" fill="#C4ADFF"/>
+  <path d="M4 58h1192" stroke="#241C32" stroke-width="3"/>
+  <g stroke="#241C32" stroke-width="2"><circle cx="31" cy="30" r="7" fill="#F3A9C8"/><circle cx="56" cy="30" r="7" fill="#FFBB8D"/><circle cx="81" cy="30" r="7" fill="#9BE5C5"/></g>
+  <text x="600" y="37" text-anchor="middle" font-family="Consolas,monospace" font-size="18" fill="#241C32">leequor / probably building something</text>
+  <rect x="733" y="60" width="463" height="302" fill="url(#dots)"/>
+  <g fill="#241C32" font-family="'Trebuchet MS',Verdana,sans-serif">
+    <text x="54" y="151" font-size="76" font-weight="700" letter-spacing="-3">hi, i'm lee.</text>
+    <text x="58" y="213" font-size="34" font-weight="700">the cat has ideas.</text>
+    <text x="58" y="256" font-size="34" font-weight="700">i take the credit.</text>
+  </g>
+  <g transform="translate(58 293)">
+    <rect width="332" height="36" rx="18" fill="#9BE5C5" stroke="#241C32" stroke-width="2"/>
+    <text x="166" y="24" text-anchor="middle" font-family="Consolas,monospace" font-size="17" fill="#241C32">vibecoding, under supervision.</text>
+  </g>
+  <g transform="translate(812 74) scale(.94)"><g shape-rendering="crispEdges">
+    <path fill="#E7BD91" d="M148 184h20v-30h20v-20h32v20h14v62h-18v20h-44v-16h30v-56h-14v20h-20v24h-20z"/>
+    <path fill="#FFF1D6" d="M26 10h34v16h16v16h38V26h18V10h34v18h16v30h14v94h-16v22H28v-22H12V58h14z"/>
+    <path fill="#FFBB8D" d="M40 24h14v16h16v18H40zM144 24h10v34h-26V40h16z"/>
+    <path fill="#E7BD91" d="M28 140h152v12h-16v18H44v-18H28z"/>
+    <path fill="#FFBB8D" d="M88 42h12v24H88zM108 42h12v18h-12z"/>
+    <path fill="#241C32" d="M52 82h22v28H52zM130 82h22v28h-22z"/><path fill="#9BE5C5" d="M56 86h10v10H56zM134 86h10v10h-10z"/>
+    <path fill="#F3A9C8" d="M30 110h22v10H30zM152 110h22v10h-22zM94 104h16v10H94z"/>
+    <path fill="#241C32" d="M100 114h5v10h-5zM90 124h10v5H90zM105 124h10v5h-10zM0 96h26v5H0zM2 116h24v5H2zM180 96h26v5h-26zM180 116h26v5h-26z"/>
+    <path fill="#241C32" d="M20 166h168v110H20zM6 276h196v12H6z"/>
+    <path fill="#443453" d="M28 174h152v94H28z"/>
+    <path fill="#9BE5C5" d="M73 212h8v-8h8v8h-8v8h-8v8h8v8h8v8h-8v-8h-8v-8h-8v-8h8zM127 204h8v8h8v8h8v8h-8v8h-8v8h-8v-8h8v-8h8v-8h-8v-8h-8zM109 202h8l-16 44h-8z"/>
+    <path fill="#FFF1D6" d="M12 164h34v24H12zM162 164h34v24h-34z"/>
+    <path fill="#FFBB8D" d="M20 180h4v8h-4zM32 180h4v8h-4zM170 180h4v8h-4zM182 180h4v8h-4z"/>
+  </g></g>
+  <g fill="#FFBB8D" shape-rendering="crispEdges"><path d="M764 96h7v9h9v7h-9v9h-7v-9h-9v-7h9z"/><path d="M1096 233h6v8h8v6h-8v8h-6v-8h-8v-6h8z"/></g>
+  <g transform="translate(1048 97) rotate(9)">
+    <rect width="100" height="34" rx="6" fill="#F3A9C8" stroke="#241C32" stroke-width="2"/>
+    <text x="50" y="22" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#241C32">meow CTO</text>
+  </g>
+  <path d="M4 364h1192v52a20 20 0 0 1-20 20H24a20 20 0 0 1-20-20z" fill="#241C32"/>
+  <g font-family="Consolas,monospace" font-size="21">
+    <text x="37" y="407" fill="#9BE5C5">~ $</text>
+    <text x="93" y="407" fill="#EDE6FF">ship idea</text>
+    <text x="235" y="407" fill="#C4ADFF"># waiting for cat approval</text>
+    <rect x="613" y="386" width="11" height="24" fill="#9BE5C5"/>
+    <text x="1163" y="407" text-anchor="end" fill="#FFBB8D" font-size="17">0 thoughts. 9 lives.</text>
+  </g>
+</svg>

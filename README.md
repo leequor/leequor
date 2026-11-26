@@ -80,6 +80,3 @@ lee@localhost ~ % cat workflow.txt
 
 ---
 
-<p align="center">
-  <sub>if you've read this far, you're legally the cat's second favorite human.</sub>
-</p>

@@ -35,7 +35,7 @@ programming, databases, and solving problems by building useful things.
 | Project | What it is |
 | :--- | :--- |
 | [MediHeal](https://github.com/leequor/mediheal-his-complete) | A hospital system demo. The patients have more patience than my debugger. |
-| [Patchwork](https://github.com/leequor/patchwork-rebuilt) | A repair-shop operations desk. “Just a quick fix” developed a backstory. |
+| [Patchwork](https://github.com/leequor/patchwork-production) | A repair-shop operations desk. “Just a quick fix” developed a backstory. |
 
 [wander through my repos](https://github.com/leequor?tab=repositories)
 
